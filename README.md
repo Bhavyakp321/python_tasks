@@ -43,11 +43,11 @@ Enter the number of producers and consumers when prompted.
 
 - This script calculates the area of different shapes such as square, triangle, and circle using Inheritance and Overloading Concepts.
 
-  **Inheritance** : When a class inherit the properties from an another class then it is termed out as Inheritance.
+1. **Inheritance** : When a class inherit the properties from an another class then it is termed out as Inheritance.
   1. Base Class : The class from which the property is inherited is known as base class.
   2. Derived Class : The class that inherits property is known as derived class.
 
-  **Overloading** : Two or more methods with same name but different number of parameters is known as Method Overloading.
+2. **Overloading** : Two or more methods with same name but different number of parameters is known as Method Overloading.
 
 ####  Run the script
 
@@ -66,6 +66,6 @@ Select an option from the menu to calculate the area of the chosen shape.
 
 4. It results the output based on the python script you are running.
 
-    **NOTE** : You can run these Python scripts in IDLE platforms too using 'f5' keyword
+**NOTE** : You can run these Python scripts in IDLE platforms too using 'f5' keyword
 
    
