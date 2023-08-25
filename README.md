@@ -15,8 +15,12 @@ This script generates random employee details, including employee IDs, locations
 
 #### Usage
 
-1.It can be extremely useful when dealing with large datasets or when you want to generate values dynamically without consuming a lot of memory.
-2.Time Consumption is reduced.
+1. It can be extremely useful when dealing with large datasets or when you want to generate values dynamically without consuming a lot of memory.
+2. Time Consumption is reduced.
+
+####  Run the script
+
+Enter the number of employee details you want to generate when prompted.
 
 ### 2. Multiple Producer- Multiple Consumer 
 
@@ -29,6 +33,10 @@ This script demonstrates a multi-threaded producer-consumer scenario using Pytho
 1. It allows to perform multiple tasks concurrently within a process.
 2. It is beneficial to manage shared resources efficiently.
 
+####  Run the script
+
+Enter the number of producers and consumers when prompted.
+
 ### 3. Shape Area Calculator
 
 #### Description
@@ -40,5 +48,22 @@ This script demonstrates a multi-threaded producer-consumer scenario using Pytho
   2. Derived Class : The class that inherits property is known as derived class.
 
   **Overloading** : Two or more methods with same name but different number of parameters is known as Overloading.
+
+####  Run the script
+
+Select an option from the menu to calculate the area of the chosen shape.
+
+## Code Execution Instruction
+
+1. **Clone the repository** to your local machine using the following command:
+   -  git clone  <repository_url>.
+
+2. **Navigate to repository directory** :
+   - cd  <repository_directory>.
+   
+3. **Run the script** using Python:
+   -  python filename.py.
+
+4. It results the output based on the python script you are running.
 
    
