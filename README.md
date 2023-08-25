@@ -47,7 +47,7 @@ Enter the number of producers and consumers when prompted.
   1. Base Class : The class from which the property is inherited is known as base class.
   2. Derived Class : The class that inherits property is known as derived class.
 
-  **Overloading** : Two or more methods with same name but different number of parameters is known as Overloading.
+  **Overloading** : Two or more methods with same name but different number of parameters is known as Method Overloading.
 
 ####  Run the script
 
@@ -65,5 +65,7 @@ Select an option from the menu to calculate the area of the chosen shape.
    -  python filename.py.
 
 4. It results the output based on the python script you are running.
+
+    **NOTE** : You can run these Python scripts in IDLE platforms too using 'f5' keyword
 
    
