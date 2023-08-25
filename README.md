@@ -66,6 +66,6 @@ Select an option from the menu to calculate the area of the chosen shape.
 
 4. It results the output based on the python script you are running.
 
-**NOTE** : You can run these Python scripts in IDLE platforms too using 'f5' keyword
+ **NOTE** : You can run these Python scripts in IDLE platforms too using 'f5' keyword
 
    
